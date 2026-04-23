@@ -1,4 +1,4 @@
-IT# wz-cli
+# wz-cli
 
 Fix critical AI code mistakes before you run them.  
 Preview the exact change. Apply safely.
@@ -126,4 +126,3 @@ v1. Honest. Does what it says.
 ## License
 
 MIT
-
