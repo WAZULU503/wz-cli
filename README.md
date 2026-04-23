@@ -28,7 +28,7 @@ Scans your file, shows the exact diff, and applies changes only with your confir
 - print(data["b"])
 + print(data.get("b"))
 
-Apply changes? (y/n):
+Apply changes? (y/N):
 ```
 
 No surprises. No blind rewrites. You stay in control.
@@ -86,7 +86,7 @@ $ wz-cli apply file.py
 
 ================
 
-Apply changes? (y/n):
+Apply changes? (y/N):
 ```
 
 Only critical fixes are applied automatically. Everything else is left for you to review.
