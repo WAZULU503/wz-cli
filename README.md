@@ -1,3 +1,4 @@
+
 # wz-cli
 
 Fix critical AI code mistakes before you run them.  
